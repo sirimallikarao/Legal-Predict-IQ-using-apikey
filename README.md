@@ -15,8 +15,7 @@ A simple and interactive legal chatbot for lawyers, built using **HTML**, **CSS*
 ├── styles.css # Styling for the chatbot
 ├── script.js # Chatbot functionality and Google API integration
 
-markdown
-Copy code
+
 
 ## 🛠️ Getting Started  
 1. Clone or download this repository.  
@@ -26,9 +25,7 @@ Copy code
 1. Enter your query in the chatbot interface.  
 2. The chatbot processes your input using JavaScript and Google API to provide an accurate response.  
 
-## 🎨 Screenshots  
-- **Chatbot Interface**  
-  *(Add screenshot here)*  
+   
 
 ## 📧 Contact  
 For questions or suggestions, feel free to contact:  
