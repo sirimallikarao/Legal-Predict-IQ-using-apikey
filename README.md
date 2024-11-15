@@ -1,0 +1,2 @@
+# Legal-Predict-IQ-using-apikey
+LEGAL PREDICT IQ AN AI DRIVEN CHATBOT FOR LAWYERS 
